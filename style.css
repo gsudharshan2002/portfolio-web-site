@@ -98,13 +98,13 @@ nav ul li a:hover::after {
 }
 
 .about-col-1 {
-    flex-basis: 35%;
+    flex-basis: 38%;
 }
 
 .about-col-1 img {
     width: 85%;
     border-radius: 18px;
-    margin-left: 20px;
+    margin: 2% 10%;
 }
 
 .about-col-2 {
